@@ -218,11 +218,11 @@
 
 img.rsImg {
 	max-width: none;
-	
+	margin-left:0px!important;
 }
 img.rsImg .rsMainSlideImage
 {
-mer:0;
+margin-left:0px!important;
 }
 /*
 .grab-cursor {
