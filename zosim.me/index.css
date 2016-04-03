@@ -49,7 +49,7 @@ header .lang ul li:hover{background-color:#ecc12c}
 .section{padding:1em .5em 2em;max-width:980px;margin-left:auto;margin-right:auto;text-align:center;}
 .section .section-title{text-transform:uppercase}
 .section p{margin-left:auto;margin-right:auto}
-#hero-slider{height:325px;background-image:url("img/hero.png");-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;background-position:center 35%}
+#hero-slider{height:325px;background-image:url("img/hero.jpg");-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;background-position:center 35%}
 #welcome{background-color:#41242b;color:#cda725;background-image:url("img/welcome-bg.png");-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;background-repeat:no-repeat}
 #projects .project-item{width:100%}
 .project-item{display:inline-block;position:relative;line-height:0;padding:.5em;}
